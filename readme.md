@@ -9,5 +9,10 @@ Se genera este proyecto para aprender el uso de flask
 * Mantener sesion iniciada
 * 
 
+
+# Requerimientos:
+pip install -r requirements.txt
+
+
 ## Author
 Luis Escobedo - Roelcode
